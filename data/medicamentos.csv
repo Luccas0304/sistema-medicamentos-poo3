@@ -1,0 +1,9 @@
+codigo;nome;descricao;principioAtivo;dataValidade;quantidadeEstoque;preco;controlado;cnpj;razaoSocial;telefone;email;cidade;estado
+MED0001;Dipirona 500mg;Analgésico e antipirético;Dipirona Sódica;2025-12-31;50;12.50;false;12345678000190;Farmacêutica Brasil Ltda;11987654321;contato@farmbrasil.com.br;São Paulo;SP
+MED0002;Amoxicilina 500mg;Antibiótico de amplo espectro;Amoxicilina;2025-06-30;3;25.00;false;98765432000101;MedSupply Distribuidora;11976543210;vendas@medsupply.com.br;Rio de Janeiro;RJ
+MED0003;Rivotril 2mg;Ansiolítico benzodiazepínico;Clonazepam;2025-10-15;2;45.80;true;11223344000155;PharmaCorp S.A.;11965432109;atendimento@pharmacorp.com.br;Belo Horizonte;MG
+MED0004;Omeprazol 20mg;Inibidor da bomba de prótons;Omeprazol;2026-03-20;100;18.90;false;55667788000166;Saúde Total Medicamentos;11954321098;sac@saudetotal.com.br;Curitiba;PR
+MED0005;Losartana 50mg;Anti-hipertensivo;Losartana Potássica;2025-11-10;75;22.30;false;12345678000190;Farmacêutica Brasil Ltda;11987654321;contato@farmbrasil.com.br;São Paulo;SP
+MED0006;Ritalina 10mg;Estimulante do sistema nervoso central;Metilfenidato;2025-08-25;4;85.00;true;99887766000144;NeuroPharma Ltda;11943210987;contato@neuropharma.com.br;Porto Alegre;RS
+MED0007;Paracetamol 750mg;Analgésico e antipirético;Paracetamol;2026-01-15;120;8.50;false;98765432000101;MedSupply Distribuidora;11976543210;vendas@medsupply.com.br;Rio de Janeiro;RJ
+MED0008;Ibuprofeno 600mg;Anti-inflamatório não esteroidal;Ibuprofeno;2025-09-30;45;15.75;false;55667788000166;Saúde Total Medicamentos;11954321098;sac@saudetotal.com.br;Curitiba;PR
