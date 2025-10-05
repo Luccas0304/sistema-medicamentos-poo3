@@ -15,7 +15,7 @@ Sistema desenvolvido em Java com interface gráfica JavaFX para gerenciar o esto
 
 1. **Clone ou descompacte o projeto**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Luccas0304/sistema-medicamentos-poo3
    cd SistemaMedicamentos
    ```
 
